@@ -9,8 +9,6 @@ Currently, I'm developing adaptive Koopman embeddings for robust control.
 
 ### 🔬 Research & Projects
 - 🪶 [Adaptive Koopman Embedding for Robust Control](https://doi.org/your-paper-link)
-- 🚁 [Quadrotor NMPC ROS 2 Node](https://github.com/Rajpal9/quadrotor-nmpc)
-- ⚙️ [Koopman Residual Learning for Global Dynamics](https://github.com/Rajpal9/koopman-residual)
 
 ---
 
