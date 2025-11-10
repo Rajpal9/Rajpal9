@@ -28,7 +28,6 @@ I'm Rajpal, a Research Scholar at [Department of Mechanical Engineering](https:/
 
 ### 📊 GitHub Stats
 ![Rajpal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajpal9&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpal9&layout=compact&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rajpal9&theme=github-dark&hide_border=true)
 
 ### 🏆 GitHub Trophies
