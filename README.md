@@ -14,8 +14,8 @@ I'm Rajpal, a Research Scholar at [Department of Mechanical Engineering](https:/
 ---
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourid)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1SclfncAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajpal-singh-a29012194/)
 
 ### 🧰 Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
