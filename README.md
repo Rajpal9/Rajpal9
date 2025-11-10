@@ -1,4 +1,4 @@
-# Hi there 👋, 
+# Hi there 👋 
 
 I'm Rajpal, a Research Scholar at [Department of Mechanical Engineering](https://mecheng.iisc.ac.in/) in Indian Institute of Science(IISc), Bangalore, working on Adaptive Koopman based control for uncertian systems in the Data Augumented Control of Autonomouus Systems (DACAS) Lab under the guidance of Prof. [Jishnu Keshavan](https://iiscprofiles.irins.org/profile/167326#other_information_panel).
 
