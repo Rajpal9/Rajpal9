@@ -6,7 +6,8 @@ I'm Rajpal, a Research Scholar at [Department of Mechanical Engineering](https:/
 ---
 
 ### 🔬 Research & Projects
-- 🪶 [Adaptive Koopman Embedding for Robust Control](https://arxiv.org/abs/2405.09101)
+- 🪶 [Adaptive Koopman Embedding for Robust Control]([https://arxiv.org/abs/2405.09101][https://journals.sagepub.com/doi/full/10.1177/02783649251341907]) 
+- 🪶 [Generalized Momenta-Based Koopman Formalism for Robust Control of Euler-Lagrangian Systems](https://arxiv.org/abs/2509.17010)
 - 🪶 [Real time control using bilinear Koopman-Zeroing Neural Network framework](https://ieeexplore.ieee.org/abstract/document/10380707/)
 - 🪶 [Approximation-free robust tracking control of unknown redundant manipulators with prescribed performance and input constraints](https://ieeexplore.ieee.org/stamp/redirect.jsp?arnumber=/6221021/6376248/10649593.pdf)
 - 🪶 [Control barrier functions in dynamic uavs for kinematic obstacle avoidance: A collision cone approach](https://ieeexplore.ieee.org/iel8/10644130/10644150/10644548.pdf)
